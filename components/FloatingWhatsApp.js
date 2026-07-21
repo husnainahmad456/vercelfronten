@@ -1,0 +1,1 @@
+export default function FloatingWhatsApp(){return(<a href="https://wa.me/15551234567"target="_blank"rel="noreferrer"className="fixed bottom-6 right-6 z-50 flex items-center gap-2 rounded-full bg-green-600 px-4 py-3 text-sm font-semibold text-white shadow-lg"><span className="text-lg">📱</span>WhatsApp</a>);}

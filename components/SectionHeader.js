@@ -1,0 +1,1 @@
+export default function SectionHeader({title,subtitle}){return(<div className="mb-8 max-w-2xl"><p className="text-sm uppercase tracking-[0.3em]text-bnGold">BNwood</p><h2 className="mt-3 text-3xl font-semibold text-slate-900 md:text-4xl">{title}</h2>{subtitle&&<p className="mt-3 text-sm text-slate-600">{subtitle}</p>}</div>);}

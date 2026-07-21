@@ -1,0 +1,1 @@
+const nextConfig={experimental:{newNextLinkBehavior:false},};module.exports=nextConfig;
