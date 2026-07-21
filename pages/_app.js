@@ -7,4 +7,5 @@ export default function App({ Component, pageProps }) {
       <Component {...pageProps} />
     </CartProvider>
   );
+  import { CartProvider } from '../context/CartContext';
 }
